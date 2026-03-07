@@ -231,8 +231,8 @@ This project is open source and available under the MIT License.
 - 📍 Available for Remote & On-Site Training
 
 ### Connect
-- **Email:** mosesomoto@gmail.com
-- **Phone:** +254 791 688 623
+- **Email:**
+- **Phone:** 
 - **LinkedIn:** [moses-omoto-adala](https://linkedin.com/in/moses-omoto-adala)
 - **GitHub:** [mosese-maker](https://github.com/mosese-maker)
 
