@@ -228,6 +228,8 @@ This project is open source and available under the MIT License.
 - 🎓 ICT & Engineering Lecturer
 - 💻 Backend Developer (Django, FastAPI, PostgreSQL)
 - 📚 Technology Trainer
+- 💻 Cyber security and ethical Hacking Trainer
+- 💻 hands-on Capture the Flag (CTF) cybersecurity exercise facilitator
 - 📍 Available for Remote & On-Site Training
 
 ### Connect
