@@ -6,7 +6,7 @@
 
 - **Website:** [View Live Site](https://tech-educator-pro.preview.emergentagent.com)
 - **LinkedIn:** [moses-omoto-adala](https://linkedin.com/in/moses-omoto-adala)
-- **GitHub:** [mosese-maker](https://github.com/mosese-maker)
+- **GitHub:** [mosese-maker](https://github.com/moses-maker)
 
 ## ✨ Features
 
@@ -234,7 +234,7 @@ This project is open source and available under the MIT License.
 - **Email:**
 - **Phone:** 
 - **LinkedIn:** [moses-omoto-adala](https://linkedin.com/in/moses-omoto-adala)
-- **GitHub:** [mosese-maker](https://github.com/mosese-maker)
+- **GitHub:** [mosese-maker](https://github.com/moses-maker)
 
 ---
 
